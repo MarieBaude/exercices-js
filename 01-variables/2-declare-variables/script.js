@@ -1,4 +1,4 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// déclaration d'une variable 'ourPlanet' qui prend comme valeur 'Earth'
+let ourPlanet = "Earth";
+// déclaration d'une variable 'currentVisitorName' qui prend comme valeur 'Name'
+let currentVisitorName = "Name";
