@@ -10,3 +10,6 @@ Qu’est-ce que ce code va afficher ?
 alert( alert(1) && alert(2) );
 ```
 
+1 puis undefined 
+
+

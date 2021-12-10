@@ -9,4 +9,4 @@ Qu'est-ce que le code ci-dessous va sortir ?
 ```js
 alert( null || 2 || undefined );
 ```
-
+2, première réponse vrai

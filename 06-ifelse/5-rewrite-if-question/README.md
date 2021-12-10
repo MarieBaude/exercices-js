@@ -15,3 +15,8 @@ if (a + b < 4) {
   result = 'Over';
 }
 ```
+
+```js
+let result = (a + b < 4) ? 'Below' : 'Over';
+
+```

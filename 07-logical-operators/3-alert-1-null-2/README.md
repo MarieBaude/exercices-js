@@ -10,3 +10,4 @@ Qu'est-ce que ce code va afficher ?
 alert( 1 && null && 2 );
 ```
 
+null, && retourne la première valeur false

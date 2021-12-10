@@ -11,4 +11,4 @@ if ("0") {
   alert( 'Hello' );
 }
 ```
-
+Oui, "0" n'est pas vide donc s'execute 
